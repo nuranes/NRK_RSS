@@ -2,14 +2,14 @@
 <sites>    
     <site>
         <title>Viten</title>
-        <nrkUrl>https://www.nrk.no/viten/toppsaker.rss</nrkUrl>
+        <nrkUrl>http://www.nrk.no/viten/toppsaker.rss</nrkUrl>
     </site> 
     <site>
         <title>Sport</title>
-		<nrkUrl>https://www.nrk.no/sport/siste.rss</nrkUrl>
+		<nrkUrl>http://www.nrk.no/sport/siste.rss</nrkUrl>
     </site>
     <site>
         <title>Kultur</title>
-		<nrkUrl>https://www.nrk.no/kultur/toppsaker.rss</nrkUrl>
+		<nrkUrl>http://www.nrk.no/kultur/toppsaker.rss</nrkUrl>
     </site>
 </sites>

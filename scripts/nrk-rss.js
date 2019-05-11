@@ -93,7 +93,7 @@ $("document").ready(function(){
 						var $newArticle = $("<article>")
 							.addClass("col-md-4")
 							.append( //Appending elements to an created article
-								$("<h2>").html(title),
+								$("<h3>").html(title),
 								$("<p>").html(date),
 								$("<img>", {src: thumbnail}).addClass("img-responsive"),
 								$("<p>").html(description)
